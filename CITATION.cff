@@ -1,0 +1,20 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: DEMOSES coupling engine
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Christian
+    family-names: Doh Dinga
+    email: dohdingachristian@gmail.com
+    affiliation: Delft University of Technology
+abstract: Use for coupling electricity and heat network models
+keywords:
+  - >-
+    Multi-energy systems, Combined simulation, Energy system
+    integration
+license: MIT
